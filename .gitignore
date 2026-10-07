@@ -1,0 +1,15 @@
+node_modules/
+.env
+*.log
+.DS_Store
+temp_db/operations/**/*.json
+node_modules
+dist
+build
+coverage
+*.min.js
+*.min.css
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.prettierrc
